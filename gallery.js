@@ -1,8 +1,8 @@
 $(document).ready(function(){
 	$('.slider').slick({
-		prevArrow:"<img class='a-left control-c prev slick-prev' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QBPWDm7gKJl-mUlnqNWmHZ5sTo-BW2v2h_-IBopzWIuvfJAXaPUfAGxnYvvFhliCs8c&usqp=CAU'>",
-nextArrow:"<img class='a-right control-c next slick-next' src='https://w7.pngwing.com/pngs/178/393/png-transparent-computer-icons-arrow-right-arrow-angle-text-triangle.png'>",
-    dots: true,
+    prevArrow:"<img class='a-left control-c prev slick-prev' src='https://img.icons8.com/windows/512/long-arrow-left.png'>",
+    nextArrow:"<img class='a-right control-c next slick-next' src='https://img.icons8.com/windows/512/long-arrow-right.png'>",
+		dots: true,
 		arrows:true,
 		infinite: true,
 		slidesToShow: 4,
